@@ -27,3 +27,5 @@ Thumbs.db
 # Ignore image attachments and other binaries (example)
 *.jpg
 *.png
+ 
+game_state.jsonl
