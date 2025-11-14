@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# uv and Python virtual environment
+.venv/
+.python-version
+uv.lock
+.lock
+CACHEDIR.TAG
+
+# Environment/config/support
+pyvenv.cfg
+
+# VS Code project/workspace files
+.vscode/
+
+# General config/cache
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore image attachments and other binaries (example)
+*.jpg
+*.png
