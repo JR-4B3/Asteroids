@@ -28,4 +28,4 @@ Thumbs.db
 *.jpg
 *.png
  
-game_state.jsonl
+*.jsonl
