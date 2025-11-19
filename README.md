@@ -1,2 +1,2 @@
-# Astroids
-Building Astroids using Python and Pygame
+# Asteroids
+Building Asteroids using Python and Pygame
